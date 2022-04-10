@@ -1,1 +1,1 @@
-# learning_with_rules
+# learning_from_rules
